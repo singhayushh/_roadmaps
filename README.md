@@ -1,6 +1,6 @@
 ## Roadmaps
 
-Note: This repository is a collection of roadmaps of fields of my personal interests. You can find the others just by googling up.
+Note: This repository is a collection of roadmaps of fields of my personal interests. You can find the others just by googling up.I hereby confirm that the resources below have been collected for personal use only and not for any kind of commercial use. Credits to the original authors.
 
 ### Machine Learning
 
