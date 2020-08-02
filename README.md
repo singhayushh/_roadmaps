@@ -3,6 +3,8 @@
 Note: This repository is a collection of roadmaps of fields of my personal interests. You can find the others just by googling up. I hereby confirm that the resources below have been collected for personal use only and not for any kind of commercial use. Credits to the original authors.
 
 - [Machine Learning](#machine-learning)
+- [Data Science](#data-science)
+- [Computer Vision](#computer-vision)
 - [Go Dev](#go-dev)
 - [React JS](#reactjs)
 - [Flutter](#flutter-dev)
@@ -12,6 +14,22 @@ Note: This repository is a collection of roadmaps of fields of my personal inter
 
 <kbd>
 <img src="https://raw.githubusercontent.com/chris-chris/ml-engineer-roadmap/master/img/ml-engineer.png" alt="ML Roadmap">
+</kbd>
+
+### Data Science
+
+> Visite Ai-learning-roadmap repo
+
+<kbd>
+<img src="https://miro.medium.com/max/700/1*CQXIj_SEfhfeMpMgFE8XRg.jpeg" alt="Data Science Roadmap">
+</kbd>
+
+### Computer Vision
+
+Visit [this.](https://www.analyticsvidhya.com/blog/2020/01/computer-vision-learning-path-2020/)
+
+<kbd>
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/01/learning-path-cv-scaled.jpg" alt="Data Science Roadmap">
 </kbd>
 
 ### Go Dev
@@ -41,5 +59,5 @@ Note: This repository is a collection of roadmaps of fields of my personal inter
 ### To add
 
 1. AR, VR
-2. Computer Vision
-3. Data Science
+2. ~Computer Vision~
+3. ~Data Science~
